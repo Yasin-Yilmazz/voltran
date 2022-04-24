@@ -28,6 +28,7 @@ nav {
     background-color: #f4f4f4;
     padding: 20px;
     position: sticky;
+    top: 100px;
 }
 
 nav ul {
